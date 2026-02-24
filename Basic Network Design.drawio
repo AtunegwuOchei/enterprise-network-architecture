@@ -1,0 +1,51 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="29.5.2">
+  <diagram name="Page-1" id="I8uSshyxr32c0TTH-O0D">
+    <mxGraphModel dx="786" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DZizORfV6Tp8Vec08Luh-9" edge="1" parent="1" source="DZizORfV6Tp8Vec08Luh-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DZizORfV6Tp8Vec08Luh-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DZizORfV6Tp8Vec08Luh-20" edge="1" parent="1" source="DZizORfV6Tp8Vec08Luh-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DZizORfV6Tp8Vec08Luh-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DZizORfV6Tp8Vec08Luh-3" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.router" value="Router" vertex="1">
+          <mxGeometry height="70" width="89.74" x="330" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="DZizORfV6Tp8Vec08Luh-14" edge="1" parent="1" source="DZizORfV6Tp8Vec08Luh-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DZizORfV6Tp8Vec08Luh-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DZizORfV6Tp8Vec08Luh-15" edge="1" parent="1" source="DZizORfV6Tp8Vec08Luh-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DZizORfV6Tp8Vec08Luh-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DZizORfV6Tp8Vec08Luh-16" edge="1" parent="1" source="DZizORfV6Tp8Vec08Luh-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DZizORfV6Tp8Vec08Luh-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DZizORfV6Tp8Vec08Luh-4" parent="1" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png" value="switch&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="334.87" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="DZizORfV6Tp8Vec08Luh-8" edge="1" parent="1" source="DZizORfV6Tp8Vec08Luh-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.925;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="DZizORfV6Tp8Vec08Luh-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DZizORfV6Tp8Vec08Luh-10" parent="1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;" value="Desktop" vertex="1">
+          <mxGeometry height="98" width="89" x="150" y="403.5" as="geometry" />
+        </mxCell>
+        <mxCell id="DZizORfV6Tp8Vec08Luh-12" parent="1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.laptop_1;" value="Laptop" vertex="1">
+          <mxGeometry height="77" width="91" x="330" y="424.5" as="geometry" />
+        </mxCell>
+        <mxCell id="DZizORfV6Tp8Vec08Luh-13" parent="1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.printer;" value="Printer" vertex="1">
+          <mxGeometry height="70" width="70" x="520" y="431.5" as="geometry" />
+        </mxCell>
+        <mxCell id="DZizORfV6Tp8Vec08Luh-19" edge="1" parent="1" source="DZizORfV6Tp8Vec08Luh-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="375.5" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DZizORfV6Tp8Vec08Luh-17" parent="1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet;fillColor=#D2D3D3;gradientColor=none;" value="Internet&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="79.5" width="79.5" x="335.75" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
